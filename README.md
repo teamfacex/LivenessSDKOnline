@@ -129,6 +129,20 @@ You can set some properties for liveness.
 | **Mouth opened Threshold**(mouthThreshold)   | `0.1` | `0.6` | `0.35` | 
 | **Each step timer**(timerSeconds)   | `Seconds`| `Seconds` | `5 seconds` | 
 
+#### Localization Strings
+Add these strings to your respected Localization.Strings language file
+
+```
+"Please blink your eyes"
+"Please open your mouth"
+"Please turn your face to right and left"
+"Thank You"
+"No face Detected"
+"Perfect"
+"Please bring your face inside face outline above"
+
+```
+
 
 ## 📋 Supported OS & SDK Versions
 * iOS 12.0+
