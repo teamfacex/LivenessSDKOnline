@@ -1,17 +1,17 @@
 
-[![Build Status](https://img.shields.io/cocoapods/p/LivenessSDK)](https://img.shields.io/cocoapods/p/LivenessSDK)
-[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/LivenessSDK)](https://img.shields.io/cocoapods/v/LivenessSDK)
-[![Updated](https://img.shields.io/github/last-commit/friendlynandy/LivenessSDK)](https://img.shields.io/github/last-commit/friendlynandy/LivenessSDK)
-[![Licence](https://img.shields.io/cocoapods/l/LivenessSDK?color=red&logo=red)](https://img.shields.io/cocoapods/l/LivenessSDK?color=red&logo=red)
+[![Build Status](https://img.shields.io/cocoapods/p/LivenessSDKOnline)](https://img.shields.io/cocoapods/p/LivenessSDKOnline)
+[![CocoaPods Compatible](https://img.shields.io/cocoapods/v/LivenessSDKOnline)](https://img.shields.io/cocoapods/v/LivenessSDKOnline)
+[![Updated](https://img.shields.io/github/last-commit/friendlynandy/LivenessSDKOnline)](https://img.shields.io/github/last-commit/friendlynandy/LivenessSDKOnline)
+[![Licence](https://img.shields.io/cocoapods/l/LivenessSDKOnline?color=red&logo=red)](https://img.shields.io/cocoapods/l/LivenessSDKOnline?color=red&logo=red)
 
 
-# iOSLivenessSDK
+# iOS LivenessSDKOnline
 
 ## 📜 Introduction
-Brought to you by FaceX.io, this iOSLiveness SDK can now be used to integrate gesture-based liveness Detection into your iOS applications. 
+Brought to you by FaceX.io, this iOS LivenessSDKOnline can now be used to integrate gesture-based liveness Detection into your iOS applications. 
 
 ## 🔧 Functioning
-This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analysised to verify and identify live visitors.  
+This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analyzed to verify and identify live visitors.  
 
 ## 📑 Index
 * [Features](#-features)
@@ -33,7 +33,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 ## 🌟 Features
 
 #### Utility
-Ensure Secure use of facial recognition based applications by determining liveness of your users
+Ensure Secure use of facial recognition-based applications by determining liveness of your users
 
 #### Liveness Detection by Motion
 
@@ -56,13 +56,13 @@ Users will be prompted by the screen to perform facial gestures and the response
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 
-#### 1. Create `Podfile` and add `pod 'LivenessSDK'`:
+#### 1. Create `Podfile` and add `pod 'LivenessSDKOnline'`:
 
 ```ruby
 use_frameworks!
 
 target 'YourApp' do
-    pod 'LivenessSDK'
+    pod 'LivenessSDKOnline'
 end
 ```
 
@@ -76,7 +76,7 @@ $ pod install
 
 Swift:
 ```swift
-import LivenessSDK
+import LivenessSDKOnline
 ```
 
 ## 🐒 How to use
@@ -138,8 +138,8 @@ You can set some properties for liveness.
 ## 📚 Documentation 
 Coming soon...😅
 
-- [LivenessSDK](https://nuclearace.github.io/LivenessSDK/Classes/LivenessSDK.html)
+- [LivenessSDKOnline](https://nuclearace.github.io/LivenessSDKOnline/Classes/LivenessSDKOnline.html)
 
 ## 👮🏻 License
 
-- [EULA](https://github.com/friendlynandy/LivenessSDK/blob/master/LICENCE)
+- [EULA](https://github.com/friendlynandy/LivenessSDKOnline/blob/master/LICENCE)
