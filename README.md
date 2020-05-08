@@ -86,7 +86,11 @@ import LivenessSDK
   var liveness = Liveness()
 
   liveness.delegate = self
- 
+  
+  liveness.enableEyes = true
+  liveness.enableMouth = true
+  liveness.enableYaw = true
+  
   liveness.startLiveness()
 
 // To stop and exit Liveness View
