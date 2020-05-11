@@ -156,7 +156,7 @@ Add these strings to your respected Localization.Strings language file
 ## 📚 Documentation 
 Coming soon...😅
 
-- [LivenessSDKOnline](https://nuclearace.github.io/LivenessSDKOnline/Classes/LivenessSDKOnline.html)
+- [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDKOnline/)
 
 ## 👮🏻 License
 
