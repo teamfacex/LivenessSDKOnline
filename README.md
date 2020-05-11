@@ -154,7 +154,7 @@ Add these strings to your respected Localization.Strings language file
 * Swift 5
 
 ## 📚 Documentation 
-Coming soon...😅
+😅
 
 - [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDKOnline/)
 
