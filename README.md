@@ -8,7 +8,7 @@
 # iOS LivenessSDKOnline
 
 ## 📜 Introduction
-Brought to you by FaceX.io, this iOS LivenessSDKOnline can now be used to integrate gesture-based liveness Detection into your iOS applications. 
+Brought to you by FaceX.io, this iOS LivenessSDKOnline can now be used to integrate gesture-based liveness Detection into your iOS applications. The Online SDK is licensed per authentication of liveness
 
 ## 🔧 Functioning
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analyzed to verify and identify live visitors.  
